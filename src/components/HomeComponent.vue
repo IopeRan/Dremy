@@ -2,7 +2,7 @@
     import NavbarComponent from './NavbarComponent.vue'
 </script>
 <template>
-    <section id="home" class="bg-[url('home-bg.jpg')] w-full min-h-screen bg-cover bg-center">
+    <section id="home" style="background-image: url('home-bg.jpg');" class="w-full min-h-screen bg-cover bg-center">
         <div class="bg-slate-900 w-full h-screen bg-opacity-40">
             <NavbarComponent></NavbarComponent>
             <main class="w-full h-max mt-32 flex flex-col justify-center items-center">
