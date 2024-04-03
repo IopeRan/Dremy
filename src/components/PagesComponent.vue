@@ -45,7 +45,7 @@
 const properties = [
     {
         id: 1,
-        image: '../../public/property/1.jpg',
+        image: 'property/1.jpg',
         status: 'rent',
         price: '1,200',
         name: 'mitchel park plaza apartments',
@@ -56,7 +56,7 @@ const properties = [
     },
     {
         id: 2,
-        image: '../../public/property/2.webp',
+        image: 'property/2.webp',
         status: 'rent',
         price: '1,400',
         name: 'cottonwork wood apartments',
@@ -67,7 +67,7 @@ const properties = [
     },
     {
         id: 3,
-        image: '../../public/property/3.jpg',
+        image: 'property/3.jpg',
         status: 'rent',
         price: '1,500',
         name: 'ridge st jonseph apartments',
